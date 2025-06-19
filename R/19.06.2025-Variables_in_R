@@ -1,0 +1,22 @@
+Variables in R Basics:
+
+# this is a comment - R is going to read as a comment anything starting with #
+
+variable <- 100
+Now 100 is assigned to variable
+
+bank <- 1000
+The ways to assign:
+bank.account <- 100
+bankAccount <- 100
+bank_account <- 100
+Where bank.account is the most popular.
+
+Using ctrl L we can clean our console.
+
+Easy way of using Variables:
+
+deposit <- 20
+bank.account <- bank.account + deposit
+bank.account
+The result is 120 now.
