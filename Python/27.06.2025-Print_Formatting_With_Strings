@@ -1,0 +1,9 @@
+Print Formatting with Strings:
+
+.format() method
+f-strings (formatted string literals)
+
+.format() method
+'String here {} then also {}'.format('xyz1','xyz2')
+
+Float formatting follows "{value:width.precision f}"
