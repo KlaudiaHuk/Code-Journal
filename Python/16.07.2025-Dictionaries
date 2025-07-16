@@ -1,0 +1,11 @@
+Dictionaries are unordered mappings for storing objects. 
+
+Dictionaries use curly braces and colons to signify the keys and their associated values.
+
+{'key1':'value1','key2':'value2'}
+
+Dictionaries vs Lists
+Dictionaries: Objects retrieved by key name.
+Unordered and can not be sorted.
+Lists: Objects retrieved by location.
+Ordered Sequence can be indexed or sliced.
