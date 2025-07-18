@@ -1,0 +1,5 @@
+Tuples
+
+Tuples are very similar to lists. However they have one key difference - immutability.
+Once an element is inside a tuple, it can not be reassigned.
+Tuples use parenthesis: (1,2,3)
