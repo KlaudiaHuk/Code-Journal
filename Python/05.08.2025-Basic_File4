@@ -1,0 +1,20 @@
+File Locations
+
+If want to open files at another location on your computer, simply pass in the entire file path.
+
+For Windows you need to use double \ so python doesn't treat second \ as an escape character, a file path is in the form:
+
+myfile = open("C:\\Users\\UserName\\Folder\\test.txt")
+
+For MacOS and Linux you use slashes in the opposite direction:
+
+myfile = open("/Users/YouUserName/Folder/myfile.txt")
+
+Reading, Writing, Appending Modes
+
+mode='r' is read only
+mode='w' is write only (will overwrite files or create new!)
+mode='a' is append only (will add on to files)
+mode='r+' is reading and writing
+mode='w+' is writing and reading (overwrites existing files or creates a new file!)
+
